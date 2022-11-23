@@ -2,7 +2,8 @@
 Website Monitoring service checks and verifies the website is up and working as expected and website visitors can use the site without facing any difficulties as expected
 
 ## Architecture
-![image](https://user-images.githubusercontent.com/103509243/203448838-df2471d0-652f-4e55-be15-58700519540c.png)
+![image](https://user-images.githubusercontent.com/103509243/203511798-fb1b4299-a325-4de7-a3e5-2dcbbf4a1c52.png)
+
 
 ## Approach  
 (1) Launch an EC2 instance on AWS and install Amazon Kinesis    
